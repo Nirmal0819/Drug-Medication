@@ -1,0 +1,81 @@
+Patient_ID,Medication, Dosage, Adherence, Outcome, Side_Effect, Interaction, Age, Gender, Region
+1,Aspirin,75mg,High,Improved,Headache,No,45,Male,North
+2,Statins,20mg,Medium,Stable,Blood Pressure,No,60,Female,East
+3,Insulin,10 units,Low,Improved,Nausea,No,35,Male,West
+4,Aspirin,100mg,High,Stable,Stomach Pain,Yes,50,Female,South
+5,ACE Inhibitor,5mg,Medium,Improved,Dizziness,Yes,70,Male,North
+6,Statins,40mg,High,Stable,Muscle Pain,No,55,Female,West
+7,Insulin,15 units,Low,Worsened,Nausea,Yes,40,Male,East
+8,Aspirin,75mg,Medium,Improved,No Side Effects,No,65,Female,South
+9,ACE Inhibitor,10mg,High,Stable,Dizziness,Yes,75,Male,North
+10,Insulin,20 units,Low,Worsened,Headache,Yes,30,Female,East
+11,Statins,30mg,Medium,Stable,Muscle Pain,No,50,Male,South
+12,Aspirin,50mg,High,Improved,Stomach Pain,Yes,55,Female,West
+13,ACE Inhibitor,7.5mg,Medium,Improved,No Side Effects,No,42,Male,North
+14,Insulin,12 units,Low,Worsened,Dizziness,Yes,68,Female,East
+15,Statins,25mg,High,Stable,No Side Effects,No,48,Male,West
+16,Aspirin,80mg,Medium,Improved,Headache,Yes,60,Female,South
+17,ACE Inhibitor,12.5mg,Low,Stable,Dizziness,No,33,Male,North
+18,Insulin,18 units,High,Worsened,Nausea,Yes,72,Female,East
+19,Statins,35mg,Medium,Improved,Muscle Pain,No,47,Male,South
+20,Aspirin,60mg,Low,Stable,Stomach Pain,Yes,58,Female,West
+21,ACE Inhibitor,15mg,High,Worsened,Headache,Yes,38,Male,North
+22,Insulin,25 units,Medium,Stable,Dizziness,No,67,Female,East
+23,Statins,22.5mg,Low,Improved,Muscle Pain,Yes,44,Male,West
+24,Aspirin,90mg,High,Worsened,Stomach Pain,No,53,Female,South
+25,ACE Inhibitor,8mg,Medium,Stable,No Side Effects,Yes,50,Male,North
+26,Insulin,14 units,Low,Improved,Headache,No,32,Female,East
+27,Statins,28mg,High,Worsened,Muscle Pain,Yes,63,Male,South
+28,Aspirin,70mg,Medium,Stable,Stomach Pain,Yes,55,Female,West
+29,ACE Inhibitor,9.5mg,Low,Improved,Dizziness,No,48,Male,North
+30,Insulin,16 units,High,Worsened,Nausea,Yes,70,Female,East
+31,Statins,32mg,Medium,Stable,No Side Effects,No,52,Male,South
+32,Aspirin,55mg,Low,Improved,Headache,Yes,57,Female,West
+33,ACE Inhibitor,11mg,High,Worsened,Dizziness,Yes,40,Male,North
+34,Insulin,22 units,Medium,Stable,Muscle Pain,No,65,Female,East
+35,Statins,27mg,Low,Improved,Stomach Pain,Yes,42,Male,West
+36,Aspirin,85mg,High,Worsened,Stomach Pain,Yes,60,Female,South
+37,ACE Inhibitor,13mg,Medium,Stable,Headache,No,45,Male,North
+38,Insulin,10 units,Low,Improved,Muscle Pain,No,35,Female,East
+39,Statins,38mg,High,Stable,Stomach Pain,Yes,55,Male,West
+40,Aspirin,95mg,Medium,Worsened,Dizziness,Yes,75,Female,South
+41,Aspirin,70mg,Medium,Improved,No Side Effects,No,55,Male,North
+42,ACE Inhibitor,10mg,High,Worsened,Dizziness,Yes,65,Female,East
+43,Insulin,18 units,Low,Stable,Nausea,No,40,Male,South
+44,Statins,25mg,High,Worsened,Headache,Yes,60,Female,West
+45,Aspirin,85mg,Medium,Improved,Stomach Pain,No,42,Male,North
+46,ACE Inhibitor,12mg,Low,Stable,No Side Effects,Yes,33,Female,East
+47,Insulin,20 units,High,Worsened,Muscle Pain,Yes,48,Male,South
+48,Statins,30mg,Medium,Improved,No Side Effects,No,55,Female,West
+49,Aspirin,60mg,Low,Stable,Stomach Pain,Yes,38,Male,North
+50,ACE Inhibitor,15mg,High,Improved,Dizziness,Yes,72,Female,East
+51,Insulin,22 units,Low,Worsened,Headache,Yes,37,Male,South
+52,Statins,35mg,Medium,Stable,Muscle Pain,No,62,Female,West
+53,Aspirin,80mg,High,Improved,Stomach Pain,Yes,44,Male,North
+54,ACE Inhibitor,7.5mg,Low,Worsened,Dizziness,No,31,Female,East
+55,Insulin,14 units,Medium,Stable,No Side Effects,Yes,58,Male,South
+56,Statins,27mg,High,Improved,Muscle Pain,Yes,47,Female,West
+57,Aspirin,75mg,Low,Worsened,Headache,Yes,50,Male,North
+58,ACE Inhibitor,8mg,Medium,Stable,Dizziness,No,68,Female,East
+59,Insulin,16 units,High,Improved,Nausea,No,53,Male,South
+60,Statins,32mg,Low,Worsened,Stomach Pain,Yes,41,Female,West
+61,Aspirin,90mg,Medium,Stable,No Side Effects,Yes,35,Male,North
+62,ACE Inhibitor,9.5mg,High,Improved,Headache,No,57,Female,East
+63,Insulin,15 units,Low,Worsened,Muscle Pain,Yes,49,Male,South
+64,Statins,22.5mg,Medium,Stable,No Side Effects,No,30,Female,West
+65,Aspirin,95mg,High,Improved,Stomach Pain,Yes,60,Male,North
+66,ACE Inhibitor,11mg,Low,Worsened,Dizziness,Yes,42,Female,East
+67,Insulin,25 units,Medium,Stable,Muscle Pain,No,55,Male,South
+68,Statins,28mg,High,Improved,Headache,No,46,Female,West
+69,Aspirin,55mg,Low,Worsened,Stomach Pain,Yes,33,Male,North
+70,ACE Inhibitor,13mg,Medium,Stable,Dizziness,No,64,Female,East
+71,Insulin,10 units,High,Improved,Muscle Pain,Yes,39,Male,South
+72,Statins,38mg,Low,Worsened,Headache,Yes,52,Female,West
+73,Aspirin,95mg,Medium,Stable,No Side Effects,Yes,50,Male,North
+74,ACE Inhibitor,9mg,High,Improved,Dizziness,Yes,75,Female,East
+75,Insulin,12 units,Low,Worsened,Nausea,No,36,Male,South
+76,Statins,20mg,Medium,Stable,Muscle Pain,No,63,Female,West
+77,Aspirin,65mg,High,Improved,Stomach Pain,Yes,48,Male,North
+78,ACE Inhibitor,14mg,Low,Worsened,Dizziness,Yes,42,Female,East
+79,Insulin,18 units,Medium,Stable,Headache,No,55,Male,South
+80,Statins,23mg,High,Improved,Muscle Pain,Yes,58,Female,West
